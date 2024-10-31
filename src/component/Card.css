@@ -1,0 +1,12 @@
+.carousel-indicators span {
+    width: 50%;
+    height: 50%;
+    background-color: #ccc; 
+    border: none; 
+    margin: 5px; 
+    transition: background-color 0.3s ease; 
+  }
+  
+  .carousel-indicators .active {
+    background-color: #207ef7; 
+  }
